@@ -19,6 +19,7 @@
 
     @media screen and (max-width: 800px) {
         align-items: center;
+        margin-bottom: 30px;
         .items {
             display: grid;
             grid-template-columns: 1fr 1fr;
